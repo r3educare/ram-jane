@@ -1,0 +1,6 @@
+# Extra live-news topics for the Action (one per line). Format:  line|search words
+# line 1 = Hindi national ticker, 2 = World ticker, 3 = Markets ticker.  Lines starting with # are ignored.
+1|बलिया प्रशासन
+1|आश्रम महंत
+2|India China Russia US relations
+3|nifty smallcap
